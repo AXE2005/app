@@ -92,3 +92,5 @@ function fct_scan_location() {
         }
         
    );
+   
+}
